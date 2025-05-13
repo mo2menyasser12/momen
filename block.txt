@@ -1,0 +1,7 @@
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+static.xx.fbcdn.net
+graph.facebook.com
+scontent.xx.fbcdn.net
